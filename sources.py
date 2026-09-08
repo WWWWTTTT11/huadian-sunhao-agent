@@ -95,7 +95,7 @@ def calculate_slippage(depth, side="buy", quote_amounts=None):
     bids, asks = depth["bids"], depth["asks"]
     best_bid, best_ask = bids[0][0], asks[0][0]
     midpoint = (best_bid + best_ask) / 2
-    levels = asks if side == "buy" else list(reversed(bids))
+    levels = asks if side == "buy" else bids
     results = []
     for amount in quote_amounts:
         fill = _walk_book(levels, amount)

@@ -1,4 +1,4 @@
-在线演示网址：https://ebeec7b3bd494aaf82160c644b8bcc5e.app.workbuddy.link/
+在线演示网址：https://gleeful-rabanadas-c8cdfa.netlify.app/
 # 盘口损耗研判智能体 · huadian-sunhao-agent
 
 一个围绕交易前风险检查的本地数据分析工具，提供盘口滑点磨损测算与恐慌贪婪指数分析。

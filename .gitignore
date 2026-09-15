@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
-server.log
+server-test.log
+server-test.pid
+.npm-cache/

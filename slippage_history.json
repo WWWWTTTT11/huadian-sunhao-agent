@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1789513830826",
+    "symbol": "BTCUSDT",
+    "side": "buy",
+    "amount": 10000.0,
+    "created_at": "2026-09-16 07:10:30",
+    "risk_rating": "低",
+    "slippage_pct": 0.0,
+    "cost_usdt": 0.0
+  },
+  {
+    "id": "1789513016451",
+    "symbol": "BTCUSDT",
+    "side": "buy",
+    "amount": 10000.0,
+    "created_at": "2026-09-16 06:56:56",
+    "risk_rating": "低",
+    "slippage_pct": 0.0,
+    "cost_usdt": 0.0
+  },
+  {
+    "id": "1788908116722",
+    "symbol": "BTCUSDT",
+    "side": "buy",
+    "amount": 10000.0,
+    "created_at": "2026-09-09 06:55:16",
+    "risk_rating": "低",
+    "slippage_pct": 0.0,
+    "cost_usdt": 0.0
+  },
+  {
+    "id": "1788907088610",
+    "symbol": "DOGEUSDT",
+    "side": "sell",
+    "amount": 1000.0,
+    "created_at": "2026-09-09 06:38:08",
+    "risk_rating": "高",
+    "slippage_pct": 1.101591187270507,
+    "cost_usdt": 330.4773561811521
+  },
+  {
+    "id": "1788907077185",
+    "symbol": "XRPUSDT",
+    "side": "sell",
+    "amount": 100000.0,
+    "created_at": "2026-09-09 06:37:57",
+    "risk_rating": "高",
+    "slippage_pct": 0.6977235886954697,
+    "cost_usdt": 209.3170766086409
+  },
+  {
+    "id": "1788907073040",
+    "symbol": "XRPUSDT",
+    "side": "sell",
+    "amount": 10000.0,
+    "created_at": "2026-09-09 06:37:53",
+    "risk_rating": "高",
+    "slippage_pct": 0.6977235886954697,
+    "cost_usdt": 209.3170766086409
+  },
+  {
+    "id": "1788907067371",
+    "symbol": "BTCUSDT",
+    "side": "sell",
+    "amount": 10000.0,
+    "created_at": "2026-09-09 06:37:47",
+    "risk_rating": "低",
+    "slippage_pct": 0.016761807126864738,
+    "cost_usdt": 5.0285421380594215
+  },
+  {
+    "id": "1788907063962",
+    "symbol": "BTCUSDT",
+    "side": "buy",
+    "amount": 10000.0,
+    "created_at": "2026-09-09 06:37:43",
+    "risk_rating": "低",
+    "slippage_pct": 0.0003648693543738462,
+    "cost_usdt": 0.10946080631215387
+  },
+  {
+    "id": "1788907047835",
+    "symbol": "BTCUSDT",
+    "side": "buy",
+    "amount": 10000.0,
+    "created_at": "2026-09-09 06:37:27",
+    "risk_rating": "低",
+    "slippage_pct": 0.0013170496562807093,
+    "cost_usdt": 0.3951148968842128
+  },
+  {
+    "id": "1788906203668",
+    "symbol": "BNBUSDT",
+    "side": "sell",
+    "amount": 10000.0,
+    "created_at": "2026-09-09 06:23:23",
+    "risk_rating": "中",
+    "slippage_pct": 0.13370254254852793,
+    "cost_usdt": 40.11076276455837
+  },
+  {
+    "id": "1788906167712",
+    "symbol": "XRPUSDT",
+    "side": "sell",
+    "amount": 10000.0,
+    "created_at": "2026-09-09 06:22:47",
+    "risk_rating": "高",
+    "slippage_pct": 0.672369069192027,
+    "cost_usdt": 201.7107207576081
+  },
+  {
+    "id": "1788906157572",
+    "symbol": "BTCUSDT",
+    "side": "sell",
+    "amount": 10000.0,
+    "created_at": "2026-09-09 06:22:37",
+    "risk_rating": "低",
+    "slippage_pct": 0.01667883654609962,
+    "cost_usdt": 5.003650963829886
+  },
+  {
+    "id": "1788906153490",
+    "symbol": "BTCUSDT",
+    "side": "buy",
+    "amount": 10000.0,
+    "created_at": "2026-09-09 06:22:33",
+    "risk_rating": "低",
+    "slippage_pct": 0.0,
+    "cost_usdt": 0.0
+  },
+  {
+    "id": "1788904695223",
+    "symbol": "BNBUSDT",
+    "side": "sell",
+    "amount": 100,
+    "created_at": "2026-09-09 05:58:15",
+    "risk_rating": "中",
+    "slippage_pct": 0.13099823149720413,
+    "cost_usdt": 39.299469449161236
+  },
+  {
+    "id": "1788904691720",
+    "symbol": "BNBUSDT",
+    "side": "buy",
+    "amount": 100,
+    "created_at": "2026-09-09 05:58:11",
+    "risk_rating": "低",
+    "slippage_pct": 0.0057376412884715304,
+    "cost_usdt": 1.7212923865414593
+  },
+  {
+    "id": "1788904688226",
+    "symbol": "BNBUSDT",
+    "side": "sell",
+    "amount": 100,
+    "created_at": "2026-09-09 05:58:08",
+    "risk_rating": "中",
+    "slippage_pct": 0.13833587530345762,
+    "cost_usdt": 41.50076259103728
+  },
+  {
+    "id": "1788904677211",
+    "symbol": "XRPUSDT",
+    "side": "sell",
+    "amount": 100,
+    "created_at": "2026-09-09 05:57:57",
+    "risk_rating": "高",
+    "slippage_pct": 0.6738583496677301,
+    "cost_usdt": 202.15750490031903
+  },
+  {
+    "id": "1788904671186",
+    "symbol": "XRPUSDT",
+    "side": "sell",
+    "amount": 100000.0,
+    "created_at": "2026-09-09 05:57:51",
+    "risk_rating": "高",
+    "slippage_pct": 0.6862604918690217,
+    "cost_usdt": 205.87814756070654
+  },
+  {
+    "id": "1788904661397",
+    "symbol": "XRPUSDT",
+    "side": "sell",
+    "amount": 1000.0,
+    "created_at": "2026-09-09 05:57:41",
+    "risk_rating": "高",
+    "slippage_pct": 0.6990044482100951,
+    "cost_usdt": 209.70133446302853
+  },
+  {
+    "id": "1788904652453",
+    "symbol": "XRPUSDT",
+    "side": "buy",
+    "amount": 1000.0,
+    "created_at": "2026-09-09 05:57:32",
+    "risk_rating": "低",
+    "slippage_pct": 0.006770058517618769,
+    "cost_usdt": 2.0310175552856307
+  },
+  {
+    "id": "1788904597535",
+    "symbol": "XRPUSDT",
+    "side": "buy",
+    "amount": 100000.0,
+    "created_at": "2026-09-09 05:56:37",
+    "risk_rating": "低",
+    "slippage_pct": 0.01129351739684863,
+    "cost_usdt": 3.3880552190545887
+  },
+  {
+    "id": "1788904594521",
+    "symbol": "XRPUSDT",
+    "side": "sell",
+    "amount": 100000.0,
+    "created_at": "2026-09-09 05:56:34",
+    "risk_rating": "高",
+    "slippage_pct": 0.6862604918690217,
+    "cost_usdt": 205.87814756070654
+  },
+  {
+    "id": "1788904591139",
+    "symbol": "BTCUSDT",
+    "side": "sell",
+    "amount": 100000.0,
+    "created_at": "2026-09-09 05:56:31",
+    "risk_rating": "低",
+    "slippage_pct": 0.01676098918643271,
+    "cost_usdt": 5.028296755929813
+  },
+  {
+    "id": "1788904586223",
+    "symbol": "BTCUSDT",
+    "side": "buy",
+    "amount": 100000.0,
+    "created_at": "2026-09-09 05:56:26",
+    "risk_rating": "低",
+    "slippage_pct": 0.0003228392915405645,
+    "cost_usdt": 0.09685178746216934
+  },
+  {
+    "id": "1788904580762",
+    "symbol": "BTCUSDT",
+    "side": "sell",
+    "amount": 100000.0,
+    "created_at": "2026-09-09 05:56:20",
+    "risk_rating": "低",
+    "slippage_pct": 0.0161876357076037,
+    "cost_usdt": 4.85629071228111
+  },
+  {
+    "id": "1788904565997",
+    "symbol": "BTCUSDT",
+    "side": "buy",
+    "amount": 100000.0,
+    "created_at": "2026-09-09 05:56:05",
+    "risk_rating": "低",
+    "slippage_pct": 0.0015038408765590395,
+    "cost_usdt": 0.4511522629677118
+  },
+  {
+    "id": "1788904559821",
+    "symbol": "BTCUSDT",
+    "side": "buy",
+    "amount": 100,
+    "created_at": "2026-09-09 05:55:59",
+    "risk_rating": "低",
+    "slippage_pct": 0.0019913395657554026,
+    "cost_usdt": 0.5974018697266207
+  },
+  {
+    "id": "1788904280337",
+    "symbol": "BTCUSDT",
+    "side": "buy",
+    "amount": 100,
+    "created_at": "2026-09-09 05:51:20",
+    "risk_rating": "低",
+    "slippage_pct": 0.0,
+    "cost_usdt": 0.0
+  },
+  {
+    "id": "1788904272029",
+    "symbol": "ETHUSDT",
+    "side": "sell",
+    "amount": 10000.0,
+    "created_at": "2026-09-09 05:51:12",
+    "risk_rating": "低",
+    "slippage_pct": 0.048078021320744256,
+    "cost_usdt": 14.423406396223276
+  },
+  {
+    "id": "1788904259801",
+    "symbol": "ETHUSDT",
+    "side": "buy",
+    "amount": 10000.0,
+    "created_at": "2026-09-09 05:50:59",
+    "risk_rating": "低",
+    "slippage_pct": 0.0,
+    "cost_usdt": 0.0
+  }
+]
